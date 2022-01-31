@@ -1,6 +1,7 @@
-[![Dise-o-sin-t-tulo-2022-01-31-T094354-461.png](https://i.postimg.cc/bJTXNVjY/Dise-o-sin-t-tulo-2022-01-31-T094354-461.png)](https://postimg.cc/cgrkFmHP)
+document.white("Hi👋, I'm Diego Insaurralde");
 
-- 👋 Hi, I’m @diegoinsaurralde
+[![Diego-Insaurralde.png](https://i.postimg.cc/ryRY8GB2/Diego-Insaurralde.png)](https://postimg.cc/Rq9TdtCg)
+
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
