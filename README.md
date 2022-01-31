@@ -1,4 +1,4 @@
-document.white("Hi👋, I'm Diego Insaurralde");
+document.write("Hi👋, I'm Diego Insaurralde");
 
 [![Diego-nicol-s-insaurrlde.png](https://i.postimg.cc/qBcVVhzL/Diego-nicol-s-insaurrlde.png)](https://postimg.cc/F1Kn0Kbd)
 
