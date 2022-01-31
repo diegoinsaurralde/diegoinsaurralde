@@ -1,6 +1,6 @@
 document.white("Hi👋, I'm Diego Insaurralde");
 
-[![Diego-Insaurralde.png](https://i.postimg.cc/ryRY8GB2/Diego-Insaurralde.png)](https://postimg.cc/Rq9TdtCg)
+[![Diego-nicol-s-insaurrlde.png](https://i.postimg.cc/qBcVVhzL/Diego-nicol-s-insaurrlde.png)](https://postimg.cc/F1Kn0Kbd)
 
 
 I would describe myself in three words as a self-taught, proactive and decisive person.
